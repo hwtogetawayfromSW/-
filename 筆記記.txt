@@ -1,0 +1,5 @@
+GIT
+git status 查看目前修改檔案狀態
+git add 追蹤檔案
+git commit -m "版本名稱"  推一個新的版本(本地)
+git push origin 分支名稱  上傳到遠端
